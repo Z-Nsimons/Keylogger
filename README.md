@@ -1,0 +1,1 @@
+This project is a Python-based keylogger designed for educational purposes only. A keylogger is a tool that records keystrokes made by a user. This project is intended to demonstrate the basics of keylogging, event handling, and file I/O in Python.
